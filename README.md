@@ -14,3 +14,5 @@ test repository. 20191113
 ## log
 自分のPCに、cloneしてみた。その後、commitして、push。
 
+そのあとさらに、pullもやってみる。
+
