@@ -10,3 +10,7 @@ test repository. 20191113
 - apple
 - grape
 - orange
+
+## log
+自分のPCに、cloneしてみた。その後、commitして、push。
+
