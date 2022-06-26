@@ -1,3 +1,6 @@
 test for PAC_personal_access_token.
 20220624
 
+test for cmd. push/pull.
+20220627
+
